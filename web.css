@@ -1,0 +1,215 @@
+header{
+    background-color:#050345;
+    font-family:ariel;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0px;
+    text-align:center;
+    color:#02FB62;
+}
+header h1{
+    font-size:55px;
+    color:#C62828;
+}
+#headerbutton{
+    height:35px;
+    background-color:#64FFDA;
+    color:white;
+    opacity:0.7;
+    text-align:center;
+    margin-left:260px;
+    height:70px;
+    font-size:30px;
+}
+#headerbutton:hover{
+    background-color:#B2FF59;
+}
+#button:hover{
+    background-color:#B2FF59;
+}
+#button{
+   float:right;
+   margin-bottom:100px;
+   Height:75px;
+   background-color:#64FFDA;
+   font-size:20px;
+}
+#beta{
+   margin-left:220px;
+   font-size:25px;
+}
+header h2{
+   font-size:30px;
+}
+ul{
+    padding:0;
+    margin:0;
+}
+li{
+    list-style:none;
+}
+ul li{
+    float:left;
+    height:45px;
+    background-color:black;
+    opacity:1;
+    text-align:centre;
+    line-height:30px;
+    margin-top:0;
+    padding:10px;
+}
+#top{
+    font-size: 30px;
+    width: 300px;
+    display: inline;
+}
+#bottom{
+    font-size: 25px;
+    width: 250px;
+    display: inline;
+}
+ul li a{
+    text-decoration:none;
+    color:white;
+    display:block;
+}
+ul li a:hover{
+   background-color:green;
+}
+#arti{
+    background-color: aqua;
+    clear: both;
+    margin-top: 1px;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 5px 10px 5px 2px;
+    color:black;
+}
+section article button{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    height:60px;
+    opacity:1
+}
+section article button a{
+    text-decoration: none;
+}
+section article button a:hover{
+    background-color: chartreuse;
+    opacity: 0.7;
+}
+#html{
+    height:200px;
+    width: auto;
+}
+#css{
+    height:200px;
+    width: auto;
+}
+#js{
+    height: 240px;
+    width: 240px;
+}
+#py{
+    height:240px;
+    width: auto;
+}
+#note{
+    color: red;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: strong;
+}
+main{
+    background-color: #130A52;
+    color: cornsilk;
+}
+header button{
+    text-decoration:none;
+}
+footer{
+    font-size:20px;
+}
+#develop{
+  height :70px;
+  font-size: 60px;
+  font-family: fantacy;
+  color: #18CCFF;
+  background-color: black;
+}
+#fish{
+  background-color: black;
+  font-size: 30px;
+  font-family: cursive;
+  color: #18CCFF;
+}
+#tuna{
+  background-color: black;
+  font-size: 30px;
+  font-family: cursive;
+  color: aqua;
+}
+
+#id{
+  color: #F80202;
+}
+#dis{
+  text-align: center;
+  font-size: 25px;
+}
+ol li:hover{
+  background-color: green;
+  opacity: 1;
+}
+ol li{
+  opacity: 0.6;
+}
+#ides{
+  width: auto;
+  line-height: 30px;
+  display:inline;
+  font-size: 35px;
+  text-decoration: none;
+  color: aqua;
+  opacity: .5;
+}
+div a:hover{
+  opacity: 1;
+  color: inherit;
+}
+#code{
+  font-size: 25px;
+  width: auto;
+  display: block;
+}
+#t{
+  height: auto;
+  font-size: 45px;
+  font-family: cursive;
+  background-color: black;
+  color: aquamarine;
+}
+#good{
+  height: auto;
+  font-size: 45px;
+  font-family: fantasy;
+}
+#by{
+  font-size: 15px;
+  font-family: monospace;
+  background-color: black;
+  color: white;
+  height: 20px;
+}
+aside{
+    font-size: 30px;
+    color:aquamarine;
+    background-color: black;
+    height: 50px;
+    padding-left: 2px;
+    padding-right: 5px;
+}
+aside,footer{
+  display: block;
+}
